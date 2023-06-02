@@ -4,5 +4,6 @@ public class HelloTest {
       int sum = a+b;
       int sub = a-b;
       int mul = a*b;
+      System.out.println("ㅎㅎ");
    }
 }
