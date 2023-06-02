@@ -3,5 +3,6 @@ public class HelloTest {
       System.out.println("Hello Git!!");
       int sum = a+b;
       int sub = a-b;
+      int mul = a*b;
    }
 }
